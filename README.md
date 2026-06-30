@@ -11,6 +11,9 @@ teacher named, to climb from a **2 → 3**.
 ## What's here
 - **[Emeka-3rd-Grade-Curriculum.md](Emeka-3rd-Grade-Curriculum.md)** — the full curriculum (also as
   [PDF](Emeka-3rd-Grade-Curriculum.pdf)).
+- **[Term-1-Session-Scripts.md](Term-1-Session-Scripts.md)** — verbatim coach scripts for all 8
+  sessions of Term 1, *"My Math-Fact Smoke Detector"* (also as [PDF](Term-1-Session-Scripts.pdf)).
+  Ready to run.
 
 ## The idea in one line
 Two engines run every week: **daily skill reps** on her app
