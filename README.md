@@ -3,6 +3,11 @@
 A personal 3rd-grade learning plan for **Emeka** (age 8), built the **Spark Builders** way:
 *a kid facing outward — noticing real problems and building real fixes.*
 
+Built from her real 2nd-grade report card: huge strengths in **effort, persistence, speaking, and the
+arts**, with core academics (reading comprehension, writing, math facts) **currently below grade level**
+— so the plan is **steady foundational reps that feel like building**, aimed at exactly what her
+teacher named, to climb from a **2 → 3**.
+
 ## What's here
 - **[Emeka-3rd-Grade-Curriculum.md](Emeka-3rd-Grade-Curriculum.md)** — the full curriculum (also as
   [PDF](Emeka-3rd-Grade-Curriculum.pdf)).

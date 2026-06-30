@@ -7,34 +7,42 @@
 
 ---
 
-## Why this curriculum is different
+## Where Emeka really is (from her actual 2nd-grade report card)
 
-Emeka is a **bright, gifted-track kid with three pinpoint gaps** — and the plan is built around exactly
-that, not around generic "do 3rd grade."
+Built from her **real** report card — P.S. 182, Grade 2, 2025–26. A plan only works if it starts from
+the truth, so here's the honest, loving picture.
+*(NYC scale: **4** = exceeds · **3** = on grade level · **2** = approaching/below · **1** = well below.)*
 
-- Her strong early grades earned her a **NYC Gifted & Talented eligibility letter** — so the *ceiling*
-  is high. She's curious, high-effort, and strong with words out loud.
-- But her most recent report card flagged **three specific skills to grow**, and we target them on
-  purpose this year.
+**Her superpowers — the engine of everything:**
+- **Effort, persistence, organization, asking for help — all 3s.** This is the single best predictor of
+  future success, and it's *already hers.*
+- **Social-Emotional = 3**, and a confident talker — "expresses ideas with clarity" = **3**.
+- **Shines in the arts & movement** — Music **4**, PE **4**, Visual Art **3**.
+- Inside reading, her **decoding & fluency = 3** — she sounds out and reads smoothly.
+- Inside math, she **understands the concepts = 3** — the ideas are there.
 
-| She's strong at (keep feeding) | She needs to grow (this year's targets) |
-|---|---|
-| Effort & focus · SEL · **vocabulary & discussion** · PE/Music | **Reading comprehension** (not decoding — *understanding*) |
-| Gifted-track potential (G&T eligible) | **Writing** — adding detail & fixing mechanics |
-| Loves to talk about ideas | **Math precision & strategy** (right *method*, not just concept) |
+**Where she's below grade level right now — this is the work, and it's very fixable:**
 
-So this year does two things at once:
+| Subject (current grade) | The gap inside it | What her teacher said to do |
+|---|---|---|
+| **Reading = 2** | Decoding is fine; **comprehension** is the gap (grade-level texts 2, text details 2) | Practice reading + **retelling**; **sight-word flash cards**; **iReady reading daily** |
+| **Writing = 2** | Tasks, details, revising, **mechanics** all 2 | Practice **3–4 sentences** on a topic; **neat** handwriting; **capitals & punctuation** |
+| **Math = 2** *(“approaching grade level”)* | Concepts good; **precision/accuracy** & **explaining** are the gap | Master **+/− within 20**; **memorize facts**; ask *“What’s happening? What do you know? What are you trying to figure out?”*; **iReady math daily** |
+| ELA, Science, Social Studies = 2 | Core academics sit at grade-approaching | Same foundations carry over |
 
-1. **Closes those three gaps** and locks in the 3rd-grade standards she's graded on (report card
-   stays strong → stays G&T-eligible), and
-2. **Aims her upward and outward** — she doesn't just *do* school, she **builds real things for real
-   people** using what she's learning. That's the Spark idea: *a kid facing outward.* This is what
-   keeps a high-potential kid from coasting.
+> **The straight talk:** Emeka doesn't need *harder* work — she needs **steady, foundational reps** to
+> climb to grade level, aimed at the exact things her teacher named. And she already has the rarest
+> ingredient: **she tries hard and doesn't quit.** We point that effort at *reading-to-understand,
+> writing clearly, and math facts* — and she climbs. This plan makes those reps feel like **building,
+> not drilling**, so she stays hungry.
+>
+> *(She was G&T-eligible from her early grades — proof the ceiling is real. This year is about
+> rebuilding the floor under it.)*
 
-> **Good news:** the app you built (`emeka-grades`) was *already* designed around these three gaps —
-> the Reading section adds a comprehension/retell step, Writing checks detail + mechanics, and Math
-> uses the "what's happening / what do you know / what are you trying to find" strategy scaffold.
-> This curriculum just wraps a full year around it.
+> **Good news:** the app you built (`emeka-grades`) already targets these exact gaps — Reading has a
+> **retell** step, Writing checks **detail + mechanics**, and Math uses the teacher's *very* scaffold:
+> "what's happening / what do you know / what are you trying to find." Pair it with the school's
+> **iReady** (the teacher asked for daily iReady reading + math) and you've got her covered.
 
 > **The one rule that runs the whole year:** Emeka is the **author**, not the audience. She notices
 > the problem, she decides what to make, she directs it. You're the coach who drives — never the one
@@ -60,54 +68,55 @@ moment it appears:
 
 | | **Engine 1 — Daily Reps** | **Engine 2 — Build Expeditions** |
 |---|---|---|
-| **What** | 15–20 min/day on **emeka-grades** (math, reading, writing, daily, games) | One real project every ~4–6 weeks using the Spark 8-session loop |
-| **Job** | Fluency & report-card standards — the "scales" | Meaning & agency — the "song" |
+| **What** | **iReady** (reading + math — the teacher's daily ask) + 15–20 min on **emeka-grades** | One real project every ~4–6 weeks using the Spark 8-session loop |
+| **Job** | Foundations & report-card standards — the "scales" | Meaning & agency — the "song" |
 | **Who drives** | Emeka, solo (you check progress) | Emeka directs, you drive the typing |
-| **Proof** | Streak + progress screen in the app | A live thing she gave to a real person |
+| **Proof** | iReady minutes + app streak/progress screen | A live thing she gave to a real person |
 
-Engine 1 keeps the grades. Engine 2 keeps the **fire**. Most kids only get Engine 1. Emeka gets both.
+Engine 1 climbs the grades (and is exactly what her teacher asked for). Engine 2 keeps the **fire** —
+so the foundational reps feel like building toward something she cares about, not punishment. Most kids
+get neither consistently. Emeka gets both.
 
 ---
 
-## Part A — The academic targets (advanced 3rd grade)
+## Part A — The academic targets (foundations → grade level)
 
-These are the 3rd-grade Common Core standards, pitched at the **top of the band** because she's G&T —
-but with a **⭐ PRIORITY** flag on the three skills her report card said to grow. Each has a home in
-her app.
+The plan is to **secure her 2nd-grade foundations first** (the things her report card flagged), then
+climb into the 3rd-grade Common Core standards. The **⭐ PRIORITY / FOUNDATION** bullets are the exact
+things her teacher said to work on — those come *before* the stretch goals. Each has a home in her app.
 
-### Math — *"from counting to reasoning"*
-- **Multiplication & division within 100** — to **automatic recall** (not finger-counting). Times
-  tables 0–10 cold.
-- **Fractions as numbers** — halves, thirds, fourths, eighths; fractions on a number line; equivalent
-  fractions (½ = 2/4); comparing fractions.
-- **⭐ PRIORITY — precision & strategy:** show the work, pick the right operation, *check* the answer.
-  Use the app's "what's happening / what do you know / what are you trying to find?" scaffold every time.
-- **Multi-step word problems** (the G&T stretch): two operations in one problem, "does my answer make
-  sense?"
-- **Area & perimeter**, telling time to the minute, elapsed time, basic bar/picture graphs.
-- *Enrichment:* simple patterns & "what's the rule?", intro to factors, friendly logic puzzles.
-- **App home:** `Math` + `Daily` + `Games`.
+### Math — *"facts first, then reasoning"*
+- **⭐ FOUNDATION FIRST — +/− within 20 to automatic recall.** Memorize the facts (flash cards, app
+  Fast Facts, Math Sprint). *This is the teacher's #1 ask — secure it before multiplication.*
+- **⭐ PRIORITY — precision & explaining:** show the work, *check* the answer, and say *how* you solved
+  it. Use the teacher's exact scaffold every time: **"What's happening? What do you know? What are you
+  trying to figure out?"** (it's built into the app's word problems).
+- **Then build into 3rd grade:** multiplication & division within 100 (start the ×2/×5/×10 families),
+  and **fractions** (halves, thirds, fourths; equal shares).
+- Area & perimeter, telling time, simple bar/picture graphs — as she's ready.
+- **App home:** `Math` + `Daily` + `Games` · **plus iReady math daily.**
 
-### Reading — *"from decoding to thinking about the text"*
-> She *decodes* well — the gap is **comprehension**. The whole reading focus is understanding, not sounding-out.
-- **⭐ PRIORITY — comprehension:** after every read, a **retell** ("tell me what happened") + main idea.
-- **Main idea + key details**, and **inference** ("how do you know? show me the words").
-- **Lesson / moral / theme** of a story; character feelings & motives.
-- **Asking and answering questions** using evidence from the text.
-- *Enrichment:* compare two texts on the same topic; nonfiction text features (headings, captions);
-  "what is the author trying to make me think?"
-- **App home:** `Reading`.
-- **Off-app target:** a **20-minute nightly read** + a one-sentence "what was the lesson?" out loud.
+### Reading — *"from reading the words to understanding them"*
+> Her **decoding & fluency are strong (3)** — the gap is **comprehension (2).** The whole focus is
+> *understanding and remembering,* not sounding-out.
+- **⭐ FOUNDATION — retell every time:** after each read, she **retells** it — characters, setting,
+  problem/solution (her teacher's exact target). Then: "what was the main idea? how do you know?"
+- **⭐ PRIORITY — sight words:** a few minutes of **sight-word flash cards** (teacher's ask) to free up
+  her brain for meaning.
+- **Build into 3rd grade:** main idea + key details, **inference** ("show me the words"), the
+  **lesson/moral** of a story, character feelings.
+- **App home:** `Reading` (tap-word read-aloud + retell step) · **plus iReady reading daily.**
+- **Off-app target:** a **20-minute read** + a one-sentence "what was the lesson?" out loud.
 
-### Writing — *"from sentences to paragraphs"*
-> She *can* write — the gaps are **adding detail** and **mechanics** (capitals, punctuation, commas).
-- **⭐ PRIORITY — detail + mechanics:** every draft gets one "add a detail" pass and one "fix the
-  capitals/punctuation" pass. The app auto-checks both.
-- **A full paragraph**: topic sentence → detail → detail → closing.
-- **Dialogue** with quotation marks; **narrative** (beginning/middle/end) and **opinion** (claim +
-  reasons) writing.
-- Capitals, end punctuation, commas in a series; spelling the grade word lists.
-- *Enrichment:* revise her own draft ("make it stronger, not longer"), add one "showing" sentence.
+### Writing — *"from neat sentences to a paragraph"*
+> Everything in writing is at **2** — so we build from the sentence up.
+- **⭐ FOUNDATION — 3–4 sentences on a topic, written neatly** (teacher's exact ask): good letter size
+  & spacing, **capitals at the start, punctuation at the end.**
+- **⭐ PRIORITY — detail + revising:** one "add a detail" pass and one "fix the capitals/punctuation"
+  pass on every draft. The app auto-checks both.
+- **Build into 3rd grade:** a **full paragraph** (topic → detail → detail → closing), then **dialogue**
+  with quotation marks, and opinion/narrative pieces.
+- **App home:** `Writing` (enforces min-sentences + mechanics).
 - **App home:** `Writing` (it enforces min-sentences/min-words per grade).
 
 ### The 4th strand — *Thinking & Making* (this is the Spark part)
@@ -164,20 +173,20 @@ Both run on the same weekly rhythm; they only differ in *where the problem comes
 
 ---
 
-### Term 1 (Fall) — 🔭 FORESIGHT · Pillar: **YOURSELF** · Academic focus: **Multiplication fluency + paragraph writing**
-**Sample build:** *"My Times-Table Smoke Detector"* — she figures out **which fact family she's about
-to forget** (the early signal), then builds a tiny daily early-warning practice that catches it
-*before* the test, not after a bad grade.
+### Term 1 (Fall) — 🔭 FORESIGHT · Pillar: **YOURSELF** · Academic focus: **Math-fact fluency (+/− within 20) + neat 3–4 sentences**
+**Sample build:** *"My Math-Fact Smoke Detector"* — she figures out **which fact she's about to forget**
+(the early signal), then builds a tiny daily early-warning practice that catches it *before* the test,
+not after a bad grade. *(This is literally her teacher's #1 ask, turned into her own project.)*
 - **Play the tape:** *"If I don't catch this fact, what happens on the quiz?"*
-- **Drills:** ×/÷ facts to automatic recall; she writes a **paragraph** explaining her early-warning system.
+- **Drills:** +/− facts to automatic recall; she writes **3–4 neat sentences** explaining her system.
 - **Real person:** herself (the easiest first "person" to practice Foresight on).
 
-### Term 2 (Winter) — 🔭 FORESIGHT · Pillar: **HOME** · Academic focus: **Fractions + multi-step problems**
+### Term 2 (Winter) — 🔭 FORESIGHT · Pillar: **HOME** · Academic focus: **Fair shares (intro fractions) + retelling**
 **Sample build:** *"Before-It's-a-Fight Fair Shares"* — she spots where an **unfair split is *about*
-to cause an argument** at home (snacks, chores, screen time) and builds a **fractions** helper that
-prevents the fight before it starts.
+to cause an argument** at home (snacks, chores, screen time) and builds a simple **equal-shares /
+halves & fourths** helper that prevents the fight before it starts.
 - **Smoke before fire:** the look on a sibling's face *before* the "that's not fair!"
-- **Drills:** halves/thirds/fourths, equivalent fractions, "is this fair?" multi-step reasoning.
+- **Drills:** equal shares, halves/thirds/fourths, "is this fair?" reasoning — explained out loud.
 - **Real person:** the family. Proof = the argument that *never happened.*
 
 ### Term 3 (Spring) — 🛠️ RESPOND · Pillar: **COMMUNITY** · Academic focus: **Reading for main idea + opinion writing**
@@ -201,12 +210,12 @@ two sources, and makes a little story or explainer that **teaches someone else**
 
 | Signal | Where to see it |
 |---|---|
-| Report-card standards holding/rising | School report card + app `Progress` screen |
+| **Grades climbing 2 → 3** | School report card (Reading, Writing, Math especially) |
+| iReady levels rising | iReady reading + math dashboards |
 | Math facts automatic | App streak + timed `Games`; no finger-counting |
-| Real reading comprehension | She can say the **lesson** of a book unprompted |
-| Writing grows | Paragraphs get *stronger*, dialogue appears |
+| Real reading comprehension | She can **retell** a book + say the **lesson** unprompted |
+| Writing grows | 3–4 neat sentences → a real paragraph; capitals & punctuation stick |
 | The Spark part | She finishes & **gives away** 4 real builds this year |
-| G&T track | Keep the report card strong → reapply / stay eligible |
 
 **The Expedition Log:** a real paper notebook. One line after every Spark session — *the problem I
 noticed, the realest thing they said, the smartest thing I thought.* By hand. This is the keepsake.
@@ -222,7 +231,15 @@ carries out the door. Do that, and you haven't taught Emeka to do 3rd grade — 
 ---
 
 ### Quick-start (this week)
-1. Open **emeka-grades.vercel.app**, set her profile to **3rd grade**, do the diagnostic.
-2. Start the 20-min nightly read tonight; end with *"what was the lesson?"*
-3. Run **Spark Session 1 — Notice** Monday: she finds one real "stuck moment" in her day.
-4. Get her a notebook. Title page: **"Emeka's Expedition Log."**
+1. Open **emeka-grades.vercel.app** and run the **diagnostic** — let it place her honestly (likely
+   **Grade 2 foundations** to start; it moves her up as she masters skills). Don't force a grade.
+2. Log into **iReady** (reading + math) — the teacher asked for daily; even 15 min counts.
+3. Start the 20-min nightly read tonight; end with a **retell** + *"what was the lesson?"*
+4. Make a set of **+/− flash cards** and a few **sight-word cards** — 5 minutes a day.
+5. Run **Spark Session 1** Monday: she finds one real "stuck moment" to build for.
+6. Get her a notebook. Title page: **"Emeka's Expedition Log."**
+
+---
+
+*Privacy: first name + age only. Her last name, school, and records stay in Dad's private files — never
+in this document or repo.*
