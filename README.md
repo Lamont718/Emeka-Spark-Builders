@@ -17,6 +17,10 @@ teacher named, to climb from a **2 → 3**.
 - **[Term-2-Session-Scripts.md](Term-2-Session-Scripts.md)** — verbatim coach scripts for all 8
   sessions of Term 2, 🔭 *"Before-It's-a-Fight Fair Shares"* (Pillar: Home · fractions/fair shares +
   retelling). Also as [PDF](Term-2-Session-Scripts.pdf). Ready to run.
+- **[Term-3-Session-Scripts.md](Term-3-Session-Scripts.md)** — verbatim coach scripts for all 8
+  sessions of Term 3, 🛠️ *"One Thing I'd Fix"* (Pillar: Community · reading for main idea + opinion
+  writing). The first **Respond** expedition — fixing a problem that's already here, for a real person
+  outside the family. Also as [PDF](Term-3-Session-Scripts.pdf). Ready to run.
 
 ## The idea in one line
 Two engines run every week: **daily skill reps** on her app
