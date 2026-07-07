@@ -21,6 +21,10 @@ teacher named, to climb from a **2 → 3**.
   sessions of Term 3, 🛠️ *"One Thing I'd Fix"* (Pillar: Community · reading for main idea + opinion
   writing). The first **Respond** expedition — fixing a problem that's already here, for a real person
   outside the family. Also as [PDF](Term-3-Session-Scripts.pdf). Ready to run.
+- **[Term-4-Session-Scripts.md](Term-4-Session-Scripts.md)** — verbatim coach scripts for all 8
+  sessions of Term 4, 🛠️ *"Something I Wonder About"* (Pillar: World · research reading + narrative
+  writing). The **capstone** — she researches a real wonder, teaches it, and names whether her year's
+  builds were Foresight or Respond. Also as [PDF](Term-4-Session-Scripts.pdf). **Completes the year.**
 
 ## The idea in one line
 Two engines run every week: **daily skill reps** on her app
