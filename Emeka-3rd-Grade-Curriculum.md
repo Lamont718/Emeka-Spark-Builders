@@ -44,6 +44,11 @@ the truth, so here's the honest, loving picture.
 > "what's happening / what do you know / what are you trying to find." Pair it with the school's
 > **iReady** (the teacher asked for daily iReady reading + math) and you've got her covered.
 
+> **Her school uses Eureka Math — so home math follows the class.** Eureka teaches 3rd-grade
+> multiplication *first* (Module 1, Sept–Oct) and keeps building on it all year. Home math practice
+> should mirror whatever **module** she's in, use the **same pictures** her class uses, and keep the
+> facts coming in the order Eureka needs them. See **"Staying in sync with Eureka"** in Part A.
+
 > **The one rule that runs the whole year:** Emeka is the **author**, not the audience. She notices
 > the problem, she decides what to make, she directs it. You're the coach who drives — never the one
 > who decides.
@@ -85,16 +90,47 @@ The plan is to **secure her 2nd-grade foundations first** (the things her report
 climb into the 3rd-grade Common Core standards. The **⭐ PRIORITY / FOUNDATION** bullets are the exact
 things her teacher said to work on — those come *before* the stretch goals. Each has a home in her app.
 
-### Math — *"facts first, then reasoning"*
-- **⭐ FOUNDATION FIRST — +/− within 20 to automatic recall.** Memorize the facts (flash cards, app
-  Fast Facts, Math Sprint). *This is the teacher's #1 ask — secure it before multiplication.*
+### Math — *"facts every day, in step with Eureka"*
+- **⭐ FOUNDATION — daily facts, two tracks side by side (~10 min).** Her school uses Eureka, which
+  starts multiplication in September — so we **don't wait** for +/− to be perfect before ×.
+  - **5 min: +/− within 20 to automatic recall** (the teacher's #1 ask; flash cards, app Fast Facts,
+    Math Sprint). Eureka Module 2 (+/− within 1000, rounding) leans on these.
+  - **5 min: × / ÷ facts in Eureka's order** — **×2, ×5, ×10 → ×3, ×4** (Module 1), then
+    **×0, ×1, ×6, ×7, ×8, ×9** (Module 3). Always practice the matching ÷ fact too (3 × 4 = 12 →
+    12 ÷ 4 = 3).
 - **⭐ PRIORITY — precision & explaining:** show the work, *check* the answer, and say *how* you solved
   it. Use the teacher's exact scaffold every time: **"What's happening? What do you know? What are you
   trying to figure out?"** (it's built into the app's word problems).
-- **Then build into 3rd grade:** multiplication & division within 100 (start the ×2/×5/×10 families),
-  and **fractions** (halves, thirds, fourths; equal shares).
-- Area & perimeter, telling time, simple bar/picture graphs — as she's ready.
+- **3rd-grade content follows her Eureka module** (see the map below): multiplication & division
+  within 100, place value & rounding, **area**, **fractions** on a number line, graphs, time,
+  perimeter.
 - **App home:** `Math` + `Daily` + `Games` · **plus iReady math daily.**
+
+#### Staying in sync with Eureka
+- **Use her class's pictures at home.** When she's stuck, draw what Eureka draws instead of showing
+  "the way we learned it": **arrays** (rows of dots) and **equal groups** for ×/÷, **number bonds**
+  for breaking numbers apart, **tape diagrams** for word problems, **number lines** for fractions and
+  rounding. Same picture at home and at school = less confusion for her.
+- **Eureka's word problems are a reading task too** — which is her other gap. Pair them with the
+  teacher's scaffold (*What's happening? What do you know? What are you trying to figure out?*) and
+  have her **retell the problem in her own words** before she solves it. One habit, two subjects.
+- **Ask the teacher once a module:** *"Which module and topic are you on, and which facts should she
+  know cold for it?"* Adjust the daily facts to match.
+- **Print the Eureka Parent Tip Sheet** (Great Minds publishes a one-pager per Grade 3 module) for
+  whichever module she's in, and keep it next to the homework spot.
+
+**Grade 3 Eureka map** *(typical order and timing — her class's pacing may differ, so confirm with the
+teacher; Eureka Math² groups these into 6 modules but in the same order):*
+
+| Module | What the class learns | What we practice at home |
+|---|---|---|
+| **1** (Sept–Oct) | × and ÷ with 2, 3, 4, 5, 10; arrays & equal groups | ×2/×5/×10 → ×3/×4 facts, with the ÷ partner |
+| **2** (Oct–Nov) | Place value, rounding, metric measurement, +/− within 1000 | +/− within 20 stays daily; rounding on a number line |
+| **3** (Nov–Dec) | × and ÷ with 0, 1, 6, 7, 8, 9; multiples of 10 | Module 1 facts reviewed, then ×6–×9 one family at a time |
+| **4** (Jan) | Area (and how it connects to ×) | Count square tiles → "it's an array!" |
+| **5** (Feb–Mar) | **Fractions** as numbers on a number line | Fair shares, folding paper, fractions on a number line |
+| **6** (Mar) | Collecting and displaying data (bar & picture graphs) | Graph something real from her build |
+| **7** (Apr–Jun) | Geometry, perimeter, measurement word problems | Measure and figure out the perimeter of real things at home |
 
 ### Reading — *"from reading the words to understanding them"*
 > Her **decoding & fluency are strong (3)** — the gap is **comprehension (2).** The whole focus is
@@ -116,8 +152,7 @@ things her teacher said to work on — those come *before* the stretch goals. Ea
   pass on every draft. The app auto-checks both.
 - **Build into 3rd grade:** a **full paragraph** (topic → detail → detail → closing), then **dialogue**
   with quotation marks, and opinion/narrative pieces.
-- **App home:** `Writing` (enforces min-sentences + mechanics).
-- **App home:** `Writing` (it enforces min-sentences/min-words per grade).
+- **App home:** `Writing` (enforces min-sentences/min-words per grade + mechanics).
 
 ### The 4th strand — *Thinking & Making* (this is the Spark part)
 Not on a report card, but the reason for the whole year:
@@ -133,10 +168,10 @@ A repeatable week. Same shape every time; only the content changes.
 
 | Day | Engine 1 (daily reps, ~15–20 min) | Engine 2 (the build) |
 |---|---|---|
-| **Mon** | Math (app `Math`) + 20-min read | *Spark session* (see the loop below) |
+| **Mon** | Math (app `Math`) + 10-min facts (+/− and ×) + 20-min read | *Spark session* (see the loop below) |
 | **Tue** | Reading (app `Reading`) + 20-min read | — |
 | **Wed** | Writing (app `Writing`) + 20-min read | *Spark session* |
-| **Thu** | Math + `Daily` mix + 20-min read | — |
+| **Thu** | Math + 10-min facts + this week's Eureka homework, using her class's pictures + 20-min read | — |
 | **Fri** | `Games` (fun reps) + "what was the lesson?" | Show-and-tell / log the week |
 | **Weekend** | One free build, draw, or read-aloud together | rest / family pillar |
 
@@ -173,12 +208,13 @@ Both run on the same weekly rhythm; they only differ in *where the problem comes
 
 ---
 
-### Term 1 (Fall) — 🔭 FORESIGHT · Pillar: **YOURSELF** · Academic focus: **Math-fact fluency (+/− within 20) + neat 3–4 sentences**
+### Term 1 (Fall) — 🔭 FORESIGHT · Pillar: **YOURSELF** · Academic focus: **Math-fact fluency (+/− within 20 *and* Eureka's × facts) + neat 3–4 sentences**
 **Sample build:** *"My Math-Fact Smoke Detector"* — she figures out **which fact she's about to forget**
 (the early signal), then builds a tiny daily early-warning practice that catches it *before* the test,
 not after a bad grade. *(This is literally her teacher's #1 ask, turned into her own project.)*
 - **Play the tape:** *"If I don't catch this fact, what happens on the quiz?"*
-- **Drills:** +/− facts to automatic recall; she writes **3–4 neat sentences** explaining her system.
+- **Drills:** +/− facts to automatic recall **plus the × facts her Eureka module is on** (×2/×5/×10
+  first); her "smoke detector" tracks both. She writes **3–4 neat sentences** explaining her system.
 - **Real person:** herself (the easiest first "person" to practice Foresight on).
 
 ### Term 2 (Winter) — 🔭 FORESIGHT · Pillar: **HOME** · Academic focus: **Fair shares (intro fractions) + retelling**
@@ -187,6 +223,8 @@ to cause an argument** at home (snacks, chores, screen time) and builds a simple
 halves & fourths** helper that prevents the fight before it starts.
 - **Smoke before fire:** the look on a sibling's face *before* the "that's not fair!"
 - **Drills:** equal shares, halves/thirds/fourths, "is this fair?" reasoning — explained out loud.
+  *Lines up with Eureka Module 5 (fractions, Feb–Mar): a head start, then home and class reinforce
+  each other.*
 - **Real person:** the family. Proof = the argument that *never happened.*
 
 ### Term 3 (Spring) — 🛠️ RESPOND · Pillar: **COMMUNITY** · Academic focus: **Reading for main idea + opinion writing**
@@ -212,7 +250,7 @@ two sources, and makes a little story or explainer that **teaches someone else**
 |---|---|
 | **Grades climbing 2 → 3** | School report card (Reading, Writing, Math especially) |
 | iReady levels rising | iReady reading + math dashboards |
-| Math facts automatic | App streak + timed `Games`; no finger-counting |
+| Math facts automatic (+/− within 20 and × through 10) | App streak + timed `Games`; no finger-counting; Eureka Sprints and module quizzes |
 | Real reading comprehension | She can **retell** a book + say the **lesson** unprompted |
 | Writing grows | 3–4 neat sentences → a real paragraph; capitals & punctuation stick |
 | The Spark part | She finishes & **gives away** 4 real builds this year |
@@ -235,9 +273,12 @@ carries out the door. Do that, and you haven't taught Emeka to do 3rd grade — 
    **Grade 2 foundations** to start; it moves her up as she masters skills). Don't force a grade.
 2. Log into **iReady** (reading + math) — the teacher asked for daily; even 15 min counts.
 3. Start the 20-min nightly read tonight; end with a **retell** + *"what was the lesson?"*
-4. Make a set of **+/− flash cards** and a few **sight-word cards** — 5 minutes a day.
-5. Run **Spark Session 1** Monday: she finds one real "stuck moment" to build for.
-6. Get her a notebook. Title page: **"Emeka's Expedition Log."**
+4. Make **+/− flash cards**, **× flash cards (×2, ×5, ×10 to start)**, and a few **sight-word cards**
+   — 10 minutes a day.
+5. Ask her teacher: **which Eureka module is the class on, and which facts should she know?** Print
+   that module's **Parent Tip Sheet**.
+6. Run **Spark Session 1** Monday: she finds one real "stuck moment" to build for.
+7. Get her a notebook. Title page: **"Emeka's Expedition Log."**
 
 ---
 
